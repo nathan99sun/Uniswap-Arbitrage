@@ -1,18 +1,10 @@
-# Uniswap V2 Subgraph
+## On Arbitrage in Single- and Multi-token Uniswap Markets
 
-[Uniswap](https://uniswap.org/) is a decentralized protocol for automated token exchange on Ethereum.
+This is the code for Sun's senior thesis: On Arbitrage in Single- and Multi-token Uniswap Markets.
 
-This subgraph dynamically tracks any pair created by the uniswap factory. It tracks of the current state of Uniswap contracts, and contains derived stats for things like historical data and USD prices.
+## Data
 
-- aggregated data across pairs and tokens,
-- data on individual pairs and tokens,
-- data on transactions
-- data on liquidity providers
-- historical data on Uniswap, pairs or tokens, aggregated by day
-
-## Running Locally
-
-Make sure to update package.json settings to point to your own graph account.
+Raw Uniswap pool data is located in the Data folder, for each day from 05/16/2021 to 12/31/2021.
 
 ## Queries
 
