@@ -11,3 +11,5 @@ Raw Uniswap pool data is located in the Data folder, for each day from 05/16/202
 This folder contains the total amount of assets that we were able to extract from the market via arbitrage. 
 
 Daily one-trade arbitrage profits are stored in "Profits.xlsx".
+
+Main code is in "Uniswap-arbitrage.ipynb".
