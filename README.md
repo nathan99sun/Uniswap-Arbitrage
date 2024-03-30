@@ -12,4 +12,4 @@ This folder contains the total amount of assets that we were able to extract fro
 
 Daily one-trade arbitrage profits are stored in "Profits.xlsx".
 
-Main code is in "Uniswap-arbitrage.ipynb".
+Main code is in "Uniswap Arbitrage.ipynb".
